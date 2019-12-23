@@ -5,8 +5,8 @@
     margin: 0 auto;
     border: solid 3px black;
     margin-top: 10px;
-    width: 400px;
-    height: 600px;
+    width: 25rem;
+    height: 37.5rem;
     position: relative;
     overflow: hidden;
 
@@ -17,8 +17,8 @@
     border: none;
     background-color: black;
     color: #fff;
-    width: 400px;
-    height: 100px;
+    width: 25rem;
+    height: 6.25rem;
     margin-top: 20px;
     font-size: 50px;
     z-index: 999;
