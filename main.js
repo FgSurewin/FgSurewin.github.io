@@ -71,7 +71,7 @@
             num++;
             count.innerHTML = 'Score: '+num ;
             
-        }else{
+        }else if(!getComputedStyle(Target).backgroundColor === 'target'){
             clearInterval(test);
             main.style.top = 0;
             box.insertAdjacentHTML('beforebegin', '<p>Game Over</p>');
