@@ -39,7 +39,7 @@
 .row div{
     width: 25%;
     height: 100%;
-    border: solid 1px black;
+    border: solid 1px white;
     float: left;
 }
 .word{
